@@ -1,5 +1,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hector-qj&show_icons=true&theme=merko)
-
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 

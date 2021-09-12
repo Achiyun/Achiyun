@@ -8,7 +8,7 @@
 ### I'm 陈池鱼
 
 - ⭐业余cv程序员.
-- 🌱 study in SuZhou, China.
+- 🌱 Study in SuZhou, China.
 - 💬 Ask me about Go, and my projects on [1368061761@qq.com](mailto:1368061761@qq.com)
 - ⚡ Fun fact: Data Analysis📊
 

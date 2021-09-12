@@ -1,23 +1,21 @@
+------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
----
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### I'm 鱼
+### I'm 陈池鱼
 
-- 业余cv程序员.
+- ⭐业余cv程序员.
 - 🌱 study in SuZhou, China.
 - 💬 Ask me about Go, and my projects on [1368061761@qq.com](mailto:1368061761@qq.com)
-- ⭐ You may like [webkettle](https://github.com/Hector-qj/) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
 - ⚡ Fun fact: Data Analysis📊
 
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![聚合支付](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)

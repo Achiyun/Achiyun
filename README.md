@@ -4,7 +4,7 @@
 
 - ⭐ 业余cv程序员.
 - 🌱 Study in SuZhou, China.
-- 💬 Ask me about Go, and my projects on [1368061761@qq.com](mailto:1368061761@qq.com)
+- 💬 Don't ask me about Go, and my projects 
 - ⚡ Fun fact: AI📊
 
 ### 🛠 技术栈 | Tech Stack
